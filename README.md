@@ -8,7 +8,7 @@ The project uses a custom-trained YOLOv8 model trained on a labeled dataset of d
 
 ---
 
-## Features
+#IMPORTANT STUFF OF OUR PROJECT
 
 ### Image Detection
 
