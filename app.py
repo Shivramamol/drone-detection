@@ -6,7 +6,7 @@ import cv2
 
 # -----------------------------
 # Page Configuration
-# -----------------------------
+# ----------------------------
 st.set_page_config(
     page_title="Drone Detection System",
     page_icon="🚁",
